@@ -5,4 +5,4 @@
  <ul>
 <li>  <a href="https://docs.google.com/spreadsheets/d/1oqaWnxYJmig39JWRjX0CJl1LAXoiAMsgP_raC_5-kck/edit?pli=1&gid=1280288917#gid=1280288917">Чек-лист</a> – несколько вариантов проверок для модулей "Регистрация", "Вход и авторизация", "Каталог". </li> 
 <li>  <a href="https://drive.google.com/file/d/1D37TNWuW4CO7MJ0_8NAkSTcc884QwkeO/view?usp=drive_link"> Тест-кейсы</a> – составлены мною в процессе освоения платформы TestIT. </li>
-<li> <a href="https://drive.google.com/file/d/1uaO3LImtMNqJxc-nWTO9HTgLnQPUvyK9/view?usp=drive_link">Отчет о дефектах</a> – пример задокументированных дефектов. Подготовлен с использованием платформы Jira. </li>
+<li> <a href="https://drive.google.com/drive/folders/1mAjRYdvcM15VT0cfsYES3q-N7zz-Zv_R">Отчет о дефектах</a> – пример задокументированных дефектов. Подготовлен с использованием платформы Jira. </li>
