@@ -5,6 +5,7 @@
  <ul>
 <li>  <a href="https://docs.google.com/spreadsheets/d/1d9-W1loLULwZDmPY9KTxQIizGcCmWPT0exh2xjekW3I/edit?gid=0#gid=0">Анализ требований и макета</a> – внутри вы найдете как ссылки на сами требования, так и результаты анализа. </li> 
 <li>  <a href="https://docs.google.com/spreadsheets/d/1NC9BjfiKWYYbkcD4JKNml7GEhDkKqkwIl8b8z8LC7i0/edit?gid=0#gid=0">Типы, методы и уровни тестирования</a> – включает обоснование выбора того или иного метода, типа или уровня. </li>
+ </ul>
 
 Также, ниже приведен список тестовой документации, которую я составлял в процессе моего обучения:
 
@@ -12,3 +13,4 @@
 <li>  <a href="https://docs.google.com/spreadsheets/d/1oqaWnxYJmig39JWRjX0CJl1LAXoiAMsgP_raC_5-kck/edit?pli=1&gid=1280288917#gid=1280288917">Чек-лист</a> – несколько вариантов проверок для модулей "Регистрация", "Вход и авторизация", "Каталог". </li> 
 <li>  <a href="https://drive.google.com/file/d/1D37TNWuW4CO7MJ0_8NAkSTcc884QwkeO/view?usp=drive_link"> Тест-кейсы</a> – составлены мною в процессе освоения платформы TestIT. </li>
 <li> <a href="https://drive.google.com/drive/folders/1mAjRYdvcM15VT0cfsYES3q-N7zz-Zv_R">Отчет о дефектах</a> – пример задокументированных дефектов. Подготовлен с использованием платформы Jira. </li>
+ </ul>
